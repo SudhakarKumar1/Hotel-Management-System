@@ -14,8 +14,6 @@ int main()
 	cout << "\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t****************************";
 	cout << "\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t DEVELOPED BY:";
 	cout << "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t - SUDHAKAR KUMAR" << endl;
-	cout << "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t - SYED NOUMAN ALI SHAH " << endl;
-	cout << "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t - UMAR AHMED KHAN " << endl;
 
 	getline(cin, a);
 	system("cls");
